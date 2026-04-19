@@ -20,4 +20,4 @@ I specialize in building interactive dashboards using Power BI and transforming 
 ---
 
 ## 📫 Contact
-- Email: your-email@gmail.com
+- Email: tatheerabbas02@gmail.com
