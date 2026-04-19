@@ -1,16 +1,23 @@
-## Hi there 👋
+# Tatheer Abbas – Data Analyst
 
-<!--
-**tatheerabbas02-sys/tatheerabbas02-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building interactive dashboards using Power BI and transforming raw data into meaningful insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Car Sales Dashboard (Power BI)
+- Mobile Sales Dashboard (Power BI)
+
+---
+
+## 🛠 Skills
+- Power BI
+- DAX
+- Power Query (ETL)
+- Data Modeling
+- SQL
+
+---
+
+## 📫 Contact
+- Email: your-email@gmail.com
