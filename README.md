@@ -7,7 +7,7 @@ I specialize in building interactive dashboards using Power BI and transforming 
 ## 🚀 Projects
 - Car Sales Dashboard (Power BI)
 - Mobile Sales Dashboard (Power BI)
-
+- Daily Sales - DTC Power BI Dashboard
 ---
 
 ## 🛠 Skills
