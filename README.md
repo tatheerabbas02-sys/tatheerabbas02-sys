@@ -2,7 +2,7 @@
 
 Building scalable data pipelines. Delivering trusted insights.
 
-I specialize in designing and building end-to-end data engineering pipelines on Azure — from raw source ingestion through to analytics-ready, governed data models.
+I specialize in designing and building end-to-end data engineering pipelines — from raw source ingestion through to analytics-ready, governed data models.
 
 ---
 
